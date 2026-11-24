@@ -4,9 +4,13 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Free Audit: Gumroad](https://img.shields.io/badge/Gumroad-Free%20Field%20Checklist%20%240-cyan.svg)](https://mzulfaas.gumroad.com/l/vswgx)
+[![Amazon Kindle](https://img.shields.io/badge/Amazon-Kindle%20Book%20%249.99-orange.svg)](https://www.amazon.com/dp/B0HSQJFPGZ)
 [![Production Kit: Gumroad](https://img.shields.io/badge/Gumroad-Production%20Kit%20%2429-green.svg)](https://mzulfaas.gumroad.com/l/xlxvnb)
-[![Book: Amazon Kindle](https://img.shields.io/badge/Amazon-Kindle%20Handbook%20%249.99-orange.svg)](https://mzulfaas.gumroad.com/l/xlxvnb)
+[![Free Checklist: Gumroad](https://img.shields.io/badge/Gumroad-Free%20Checklist%20%240-cyan.svg)](https://mzulfaas.gumroad.com/l/vswgx)
+[![Web Showcase Hub](https://img.shields.io/badge/Web-Showcase%20Hub-purple.svg)](https://mzulfaas.github.io/production-scraping-hub/)
+
+> 📖 **Official Book Available on Amazon:**  
+> Looking for the complete architectural deep-dive? Read **[*Production Web Scraping & Resilient Data Pipelines*](https://www.amazon.com/dp/B0HSQJFPGZ)** (25,836 words) on Amazon Kindle ($9.99 or free with Kindle Unlimited) — covering JA4 TLS 1.3 fingerprints, HTTP/2 framing, RFC 8942 Client Hints, and anti-bot evasion.
 
 A lightweight, zero-dependency Python boilerplate designed to navigate modern web bot protections (Cloudflare, Akamai, Datadome) using synchronized `Sec-CH-UA` Client Hints, randomized browser fingerprints, and jittered exponential retry backoff.
 
@@ -20,8 +24,8 @@ Authored by **Muhamad Zulfa** ([@mzulfaas](https://x.com/mz0029)), author of *"P
    Download the complete architectural audit covering TLS JA4 handshake alignment, CDP sanitization, residential circuit breakers, and Pydantic v2 dead-letter queues.
 2. ⚡ **[Production Python Scraper Kit ($29 on Gumroad)](https://mzulfaas.gumroad.com/l/xlxvnb)**:  
    The battle-tested, plug-and-play Python Asyncio crawler template with built-in JA4 evasion, proxy pool rotation, schema validation, and CSV/SQLite persistence.
-3. 📖 **Production Web Scraping & Resilient Data Pipelines (Amazon Kindle $9.99)**:  
-   The definitive 25,836-word architectural handbook covering distributed worker queues (RabbitMQ/Celery), Kubernetes runner nodes, and enterprise legal compliance.
+3. 📖 **[Production Web Scraping & Resilient Data Pipelines ($9.99 on Amazon Kindle)](https://www.amazon.com/dp/B0HSQJFPGZ)**:  
+   The definitive 25,836-word architectural handbook covering distributed worker queues (RabbitMQ/Celery), Kubernetes runner nodes, and enterprise legal compliance (ASIN: `B0HSQJFPGZ`).
 
 ---
 
